@@ -1,0 +1,7 @@
+{
+  "name": "update_feedbase",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comments-box": "/components/comments-box/comments-box",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "popup-input": "/components/popup-input/popup-input",
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}
